@@ -1,7 +1,12 @@
 # requirements.txt
 snowflake-connector-python
+plotly
 streamlit
 pandas
 numpy
 matplotlib
 plotly
+geopandas
+shapely
+pyproj
+fiona
